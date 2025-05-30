@@ -1,4 +1,4 @@
-# DDOS-ATTACK
+# DDOS-ATTACK : https://t.me/StrikeDDOS
 Software tools for DDOS attacks
 
 🔥 StrikeKiller Update Announcement StrikeKiller 🔥
@@ -26,7 +26,7 @@ We’ve just rolled out several exciting updates to enhance your experience with
 
 - Other Information:  
 
-✔️ Need Help? Our support team is available 24/7: @StrikerKill
+✔️ Need Help? Our support team is available 24/7: https://t.me/StrikerKill
 
 ✉️ Web Tickets: https://t.me/StrikerKill
 
